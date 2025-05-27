@@ -1,7 +1,26 @@
-# Technical Review: May 5th - May 27th, 2025
+# Technical Review: May 5th - May 27th, 2024
 
 ## Overview
 This document provides a comprehensive review of the technical work completed on the Lightchain AI project, covering both high-level achievements and detailed technical implementations. Each day's work is documented with both layman's terms explanations and technical details.
+
+## Table of Contents
+- [May 5th: Project Kickoff and Architecture Planning](#may-5th-project-kickoff-and-architecture-planning)
+- [May 6th: AI Integration Architecture and Training Framework](#may-6th-ai-integration-architecture-and-training-framework)
+- [May 7th: Implementation and Integration Progress](#may-7th-implementation-and-integration-progress)
+- [May 8th: Encryption and Governance Implementation](#may-8th-encryption-and-governance-implementation)
+- [May 9th - May 10th: Blockchain Integration Foundation](#may-9th---may-10th-blockchain-integration-foundation)
+- [May 11th - May 13th: AI Model Integration](#may-11th---may-13th-ai-model-integration)
+- [May 14th: Model Integration and Validation Framework Enhancement](#may-14th-model-integration-and-validation-framework-enhancement)
+- [May 15th: Node Infrastructure and Validation Enhancement](#may-15th-node-infrastructure-and-validation-enhancement)
+- [May 16th: Model Validation and Training Framework Enhancement](#may-16th-model-validation-and-training-framework-enhancement)
+- [May 17th - May 19th: Backend API Development](#may-17th---may-19th-backend-api-development)
+- [May 19th: Testnet Integration and Security Enhancement](#may-19th-testnet-integration-and-security-enhancement)
+- [May 20th - May 21st: Integration and Testing](#may-20th---may-21st-integration-and-testing)
+- [May 22nd: AI Integration and Team Expansion](#may-22nd-ai-integration-and-team-expansion)
+- [May 23rd: Frontend Enhancement and API Integration](#may-23rd-frontend-enhancement-and-api-integration)
+- [May 24th-25th: System Enhancement and Documentation](#may-24th-25th-system-enhancement-and-documentation)
+- [May 26th: ModelReward Contract Enhancement](#may-26th-modelreward-contract-enhancement)
+- [May 27th: System Integration and Enhancement](#may-27th-system-integration-and-enhancement)
 
 ## May 5th: Project Kickoff and Architecture Planning
 
@@ -1897,5 +1916,4 @@ This document provides a comprehensive review of the technical work completed on
 6. Set up integration
 7. Enhance security
 8. Update documentation
-
 
