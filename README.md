@@ -1,4 +1,4 @@
-# Technical Review: May 5th - May 21st, 2025
+# Technical Review: May 5th - May 27th, 2025
 
 ## Overview
 This document provides a comprehensive review of the technical work completed on the Lightchain AI project, covering both high-level achievements and detailed technical implementations. Each day's work is documented with both layman's terms explanations and technical details.
